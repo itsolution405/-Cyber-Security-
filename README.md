@@ -1,180 +1,193 @@
-📚 Silabus Cyber Security Lengkap: Nol → Mahir 🔹 Level 0 – Pra-Pemula (Fondasi Dasar)
+# 📜 Silabus Belajar Cyber Security (Dari Pemula ke Mahir)
 
-Tujuan: Membiasakan diri dengan komputer, internet, dan keamanan paling dasar. Materi:
+📚 Silabus Cyber Security Lengkap: Nol → Mahir
+🔹 Level 0 – Pra-Pemula (Fondasi Dasar)
 
-Pengoperasian Komputer
+Tujuan: Membiasakan diri dengan komputer, internet, dan keamanan paling dasar.
+Materi:
 
-Menggunakan Windows/Mac/Linux
+1. Pengoperasian Komputer
 
-File & folder (copy, paste, rename, permissions)
+    - Menggunakan Windows/Mac/Linux
 
-Dasar Internet
+    - File & folder (copy, paste, rename, permissions)
 
-Browser & mesin pencari
+2. Dasar Internet
 
-Apa itu website, domain, hosting
+    - Browser & mesin pencari
 
-Email & media sosial
+    - Apa itu website, domain, hosting
 
-Keamanan Online Sederhana
+    - Email & media sosial
 
-Password yang kuat & pengelolaan (Password Manager)
+3. Keamanan Online Sederhana
 
-Mengenal OTP & 2FA
+    - Password yang kuat & pengelolaan (Password Manager)
 
-Cara mengenali link berbahaya (phishing)
+    - Mengenal OTP & 2FA
 
-Perangkat Lunak
+    - Cara mengenali link berbahaya (phishing)
 
-Cara install/uninstall software
+4. Perangkat Lunak
 
-Update sistem & aplikasi
+    - Cara install/uninstall software
 
-Praktik:
+    - Update sistem & aplikasi
 
-- Membuat password kuat
+  Praktik:
 
-- Mengaktifkan 2FA di Gmail/WhatsApp
+    - Membuat password kuat
 
-- Memasang antivirus gratis
+    - Mengaktifkan 2FA di Gmail/WhatsApp
+
+    - Memasang antivirus gratis
+
 🔹 Level 1 – Pemula (Pengenalan Cyber Security)
 
-Tujuan: Memahami apa itu keamanan siber dan ancaman umum. Materi:
+Tujuan: Memahami apa itu keamanan siber dan ancaman umum.
+Materi:
 
-Pengertian Cyber Security
+1. Pengertian Cyber Security
 
-Kenapa keamanan siber penting
+    - Kenapa keamanan siber penting
 
-Contoh kasus serangan nyata
+    - Contoh kasus serangan nyata
 
-Jenis Ancaman
+2. Jenis Ancaman
 
-Malware, ransomware, spyware, phishing, social engineering
-Dasar Networking
+- Malware, ransomware, spyware, phishing, social engineering
 
-IP Address, DNS, Gateway
+3. Dasar Networking
 
-Perbedaan LAN, WAN, Internet
+    - IP Address, DNS, Gateway
 
-Sistem Operasi untuk Keamanan
+    - Perbedaan LAN, WAN, Internet
 
-Windows Security Basics
+4. Sistem Operasi untuk Keamanan
 
-Linux basic commands
+    - Windows Security Basics
 
-Permission & File System
+    - Linux basic commands
 
-Praktik:
+    - Permission & File System
 
-- Menggunakan ping, tracert, nslookup
+  Praktik:
 
-- Instal Kali Linux di VirtualBox
+    - Menggunakan ping, tracert, nslookup
 
-- Menjalankan command dasar (ls, grep, chmod)
+    - Instal Kali Linux di VirtualBox
+
+    - Menjalankan command dasar (ls, grep, chmod)
+
 🔹 Level 2 – Menengah (Fondasi Keamanan Teknis)
 
-Tujuan: Mampu melakukan konfigurasi keamanan dasar & analisis sederhana. Materi:
+Tujuan: Mampu melakukan konfigurasi keamanan dasar & analisis sederhana.
+Materi:
 
-Keamanan Jaringan
+1. Keamanan Jaringan
 
-Firewall, NAT, VPN
+    - Firewall, NAT, VPN
 
-Wi-Fi Security (WPA2/WPA3)
+    - Wi-Fi Security (WPA2/WPA3)
 
-Keamanan Sistem
+2. Keamanan Sistem
 
-Update & patching
+    - Update & patching
 
-Enkripsi file (AES, RSA)
+    - Enkripsi file (AES, RSA)
 
-Ethical Hacking Dasar
+3. Ethical Hacking Dasar
 
-Reconnaissance & Scanning
+    - Reconnaissance & Scanning
 
-Port Scanning dengan Nmap
+    - Port Scanning dengan Nmap
 
-Web Security Dasar
+4. Web Security Dasar
 
-HTTP vs HTTPS
+    - HTTP vs HTTPS
 
-Cookie & Session
+    - Cookie & Session
 
-Celah umum: SQL Injection, XSS (pengantar)
+    - Celah umum: SQL Injection, XSS (pengantar)
 
-Praktik:
+  Praktik:
 
-- Menggunakan Wireshark untuk sniffing
+    - Menggunakan Wireshark untuk sniffing
 
-- Port scanning dengan nmap
+    - Port scanning dengan nmap
 
-- Menguji SQL Injection di DVWA (Level Low)
+    - Menguji SQL Injection di DVWA (Level Low)
+
 🔹 Level 3 – Lanjut (Offensive & Defensive Security)
 
-Tujuan: Bisa melakukan pengujian keamanan dan mitigasi. Materi:
+Tujuan: Bisa melakukan pengujian keamanan dan mitigasi.
+Materi:
 
-Penetration Testing
+1. Penetration Testing
 
-PTES & OWASP methodology
+    - PTES & OWASP methodology
 
-Network & Web pentest
+    - Network & Web pentest
 
-Exploitasi
+2. Exploitasi
 
-Metasploit basics
+    - Metasploit basics
 
-Brute Force & Dictionary Attack
+    - Brute Force & Dictionary Attack
 
-Incident Response
+3. Incident Response
 
-Mendeteksi & menanggulangi serangan
+    - Mendeteksi & menanggulangi serangan
 
-Log analysis
+    - Log analysis
 
-Digital Forensics
+4. Digital Forensics
 
-File recovery & metadata
+    -  File recovery & metadata
 
-Memory forensics
+    - Memory forensics
 
-Praktik:
+  Praktik:
 
-- Pentest website lab di TryHackMe/HackTheBox
+    - Pentest website lab di TryHackMe/HackTheBox
 
-- Simulasi brute force password
+    - Simulasi brute force password
 
-- Analisis log serangan Apache/NGINX
+    - Analisis log serangan Apache/NGINX
+
 🔹 Level 4 – Mahir (Specialization & Professional Level)
 
-Tujuan: Menguasai spesialisasi keamanan dan siap bekerja profesional. Materi:
+Tujuan: Menguasai spesialisasi keamanan dan siap bekerja profesional.
+Materi:
 
-Cloud Security
+1. Cloud Security
 
-AWS, Azure, GCP security
+    - AWS, Azure, GCP security
 
-IAM & Access Control
+    - IAM & Access Control
 
-IoT Security
+2. IoT Security
 
-Risiko IoT devices
+    - Risiko IoT devices
 
-Simulasi serangan IoT
+    - Simulasi serangan IoT
 
-Security Automation
+3. Security Automation
 
-Python scripting untuk keamanan
+    - Python scripting untuk keamanan
 
-SIEM tools (Security Information & Event Management)
+    - SIEM tools (Security Information & Event Management)
 
-Karir & Sertifikasi
+4. Karir & Sertifikasi
 
-CompTIA Security+, CEH, OSCP, CISSP
+    - CompTIA Security+, CEH, OSCP, CISSP
 
-Portofolio & kontribusi CTF
+    - Portofolio & kontribusi CTF
 
-Praktik:
+  Praktik:
 
-- Membuat honeypot
+    - Membuat honeypot
 
-- Mengamankan AWS S3 bucket
+    - Mengamankan AWS S3 bucket
 
-- Mengembangkan script otomatis scanning vulnerability
+    - Mengembangkan script otomatis scanning vulnerability
