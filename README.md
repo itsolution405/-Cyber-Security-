@@ -6,198 +6,188 @@
 Tujuan: Membiasakan diri dengan komputer, internet, dan keamanan paling dasar.
 Materi:
 
-Pengoperasian Komputer
+1. Pengoperasian Komputer
 
-Menggunakan Windows/Mac/Linux
+    - Menggunakan Windows/Mac/Linux
 
-File & folder (copy, paste, rename, permissions)
+    - File & folder (copy, paste, rename, permissions)
 
-Dasar Internet
+2. Dasar Internet
 
-Browser & mesin pencari
+    - Browser & mesin pencari
 
-Apa itu website, domain, hosting
+    - Apa itu website, domain, hosting
 
-Email & media sosial
+    - Email & media sosial
 
-Keamanan Online Sederhana
+3. Keamanan Online Sederhana
 
-Password yang kuat & pengelolaan (Password Manager)
+    - Password yang kuat & pengelolaan (Password Manager)
 
-Mengenal OTP & 2FA
+    - Mengenal OTP & 2FA
 
-Cara mengenali link berbahaya (phishing)
+    - Cara mengenali link berbahaya (phishing)
 
-Perangkat Lunak
+4. Perangkat Lunak
 
-Cara install/uninstall software
+    - Cara install/uninstall software
 
-Update sistem & aplikasi
+    - Update sistem & aplikasi
 
-Praktik:
+  Praktik:
 
-Membuat password kuat
+    - Membuat password kuat
 
-Mengaktifkan 2FA di Gmail/WhatsApp
+    - Mengaktifkan 2FA di Gmail/WhatsApp
 
-Memasang antivirus gratis
+    - Memasang antivirus gratis
 
 🔹 Level 1 – Pemula (Pengenalan Cyber Security)
 
 Tujuan: Memahami apa itu keamanan siber dan ancaman umum.
 Materi:
 
-Pengertian Cyber Security
+1. Pengertian Cyber Security
 
-Kenapa keamanan siber penting
+    - Kenapa keamanan siber penting
 
-Contoh kasus serangan nyata
+    - Contoh kasus serangan nyata
 
-Jenis Ancaman
+2. Jenis Ancaman
 
-Malware, ransomware, spyware, phishing, social engineering
+- Malware, ransomware, spyware, phishing, social engineering
 
-Dasar Networking
+3. Dasar Networking
 
-IP Address, DNS, Gateway
+    - IP Address, DNS, Gateway
 
-Perbedaan LAN, WAN, Internet
+    - Perbedaan LAN, WAN, Internet
 
-Sistem Operasi untuk Keamanan
+4. Sistem Operasi untuk Keamanan
 
-Windows Security Basics
+    - Windows Security Basics
 
-Linux basic commands
+    - Linux basic commands
 
-Permission & File System
+    - Permission & File System
 
-Praktik:
+  Praktik:
 
-Menggunakan ping, tracert, nslookup
+    - Menggunakan ping, tracert, nslookup
 
-Instal Kali Linux di VirtualBox
+    - Instal Kali Linux di VirtualBox
 
-Menjalankan command dasar (ls, grep, chmod)
+    - Menjalankan command dasar (ls, grep, chmod)
 
 🔹 Level 2 – Menengah (Fondasi Keamanan Teknis)
 
 Tujuan: Mampu melakukan konfigurasi keamanan dasar & analisis sederhana.
 Materi:
 
-Keamanan Jaringan
+1. Keamanan Jaringan
 
-Firewall, NAT, VPN
+    - Firewall, NAT, VPN
 
-Wi-Fi Security (WPA2/WPA3)
+    - Wi-Fi Security (WPA2/WPA3)
 
-Keamanan Sistem
+2. Keamanan Sistem
 
-Update & patching
+    - Update & patching
 
-Enkripsi file (AES, RSA)
+    - Enkripsi file (AES, RSA)
 
-Ethical Hacking Dasar
+3. Ethical Hacking Dasar
 
-Reconnaissance & Scanning
+    - Reconnaissance & Scanning
 
-Port Scanning dengan Nmap
+    - Port Scanning dengan Nmap
 
-Web Security Dasar
+4. Web Security Dasar
 
-HTTP vs HTTPS
+    - HTTP vs HTTPS
 
-Cookie & Session
+    - Cookie & Session
 
-Celah umum: SQL Injection, XSS (pengantar)
+    - Celah umum: SQL Injection, XSS (pengantar)
 
-Praktik:
+  Praktik:
 
-Menggunakan Wireshark untuk sniffing
+    - Menggunakan Wireshark untuk sniffing
 
-Port scanning dengan nmap
+    - Port scanning dengan nmap
 
-Menguji SQL Injection di DVWA (Level Low)
+    - Menguji SQL Injection di DVWA (Level Low)
 
 🔹 Level 3 – Lanjut (Offensive & Defensive Security)
 
 Tujuan: Bisa melakukan pengujian keamanan dan mitigasi.
 Materi:
 
-Penetration Testing
+1. Penetration Testing
 
-PTES & OWASP methodology
+    - PTES & OWASP methodology
 
-Network & Web pentest
+    - Network & Web pentest
 
-Exploitasi
+2. Exploitasi
 
-Metasploit basics
+    - Metasploit basics
 
-Brute Force & Dictionary Attack
+    - Brute Force & Dictionary Attack
 
-Incident Response
+3. Incident Response
 
-Mendeteksi & menanggulangi serangan
+    - Mendeteksi & menanggulangi serangan
 
-Log analysis
+    - Log analysis
 
-Digital Forensics
+4. Digital Forensics
 
-File recovery & metadata
+    -  File recovery & metadata
 
-Memory forensics
+    - Memory forensics
 
-Praktik:
+  Praktik:
 
-Pentest website lab di TryHackMe/HackTheBox
+    - Pentest website lab di TryHackMe/HackTheBox
 
-Simulasi brute force password
+    - Simulasi brute force password
 
-Analisis log serangan Apache/NGINX
+    - Analisis log serangan Apache/NGINX
 
 🔹 Level 4 – Mahir (Specialization & Professional Level)
 
 Tujuan: Menguasai spesialisasi keamanan dan siap bekerja profesional.
 Materi:
 
-Cloud Security
+1. Cloud Security
 
-AWS, Azure, GCP security
+    - AWS, Azure, GCP security
 
-IAM & Access Control
+    - IAM & Access Control
 
-IoT Security
+2. IoT Security
 
-Risiko IoT devices
+    - Risiko IoT devices
 
-Simulasi serangan IoT
+    - Simulasi serangan IoT
 
-Security Automation
+3. Security Automation
 
-Python scripting untuk keamanan
+    - Python scripting untuk keamanan
 
-SIEM tools (Security Information & Event Management)
+    - SIEM tools (Security Information & Event Management)
 
-Karir & Sertifikasi
+4. Karir & Sertifikasi
 
-CompTIA Security+, CEH, OSCP, CISSP
+    - CompTIA Security+, CEH, OSCP, CISSP
 
-Portofolio & kontribusi CTF
+    - Portofolio & kontribusi CTF
 
-Praktik:
+  Praktik:
 
-Membuat honeypot
+    - Membuat honeypot
 
-Mengamankan AWS S3 bucket
+    - Mengamankan AWS S3 bucket
 
-Mengembangkan script otomatis scanning vulnerability
-
-📌 Proyek Akhir
-
-Pilih salah satu:
-
-Melakukan pentest pada website lokal & membuat laporan profesional
-
-Membangun honeypot untuk memonitor serangan
-
-Simulasi incident response dari serangan ransomware
+    - Mengembangkan script otomatis scanning vulnerability
